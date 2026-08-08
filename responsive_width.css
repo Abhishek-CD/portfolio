@@ -1,0 +1,427 @@
+@media (max-width: 1480px){
+    .rest2{
+        display: none;
+    }
+    .course-style, .course-des-style{
+        font-size: .9rem;
+    }
+    .poly-div, .sset-div, .tm-div, .resume-div{
+        width: 380px;
+    }
+    .line{
+        left: 30%;
+    }
+    .line_cont{
+        left: 28.5%;
+    }
+    .sset-div{
+        height: 90px;
+    }
+}
+
+
+
+@media (max-width: 1280px) {
+    .triangle {
+        left: 45%;
+    }
+    .card{
+        width: 190px;
+    }
+    .triangle2{
+        left: 35%;
+    }
+    .course-style, .course-des-style{
+        font-size: .8rem;
+    }
+    .poly-div, .sset-div, .tm-div, .resume-div{
+        width: 340px;
+    }
+
+    .line{
+        left: 28%;
+    }
+    .line_cont{
+        left: 26%;
+    }
+    .show-contact{
+        width: 550px;
+
+    }
+}
+
+@media (max-width: 1200px) {
+    .triangle {
+        left: 40%;
+    }
+    .intro{
+        font-size: 1.1rem;
+    }
+    .overview{
+        font-size: 4.6rem;
+    }
+    .intro-content{
+        font-size: 1.1rem;
+    }
+    .icon{
+        font-size: 2.8rem;
+    }
+    .card-head, .card-head2{
+        font-size: 1.1rem;
+
+    }
+    .triangle2{
+        left: 30%;
+    }
+
+@media (max-width: 1100px){
+    .line{
+        left: -15%;
+    }
+    .line_cont{
+        left: -17.2%;
+    }
+    .sset-div, .resume-div{
+        left: 18%;
+    }
+    .course-style, .course-des-style{
+        font-size: 1.2rem;
+    }
+    .poly-div, .sset-div, .tm-div, .resume-div{
+        width: 550px;
+    }
+}
+}
+@media (max-width: 1024px) {
+    .triangle {
+        left: 30%;
+    }
+    .hello, .myname{
+        font-size: 2.5rem;
+    }
+    .des{
+        font-size: 1.6rem;
+    }
+    img{
+        left: 55%;
+    }
+    .top-right p{
+        font-size: 1.3rem;
+    }
+    .intro{
+        font-size: 1.1rem;
+    }
+    .overview{
+        font-size: 4.6rem;
+    }
+    .intro-content{
+        font-size: 1.1rem;
+    }
+    .card{
+        width: 160px;
+    }
+    .icon{
+        font-size: 2.6rem;
+    }
+    .card-head, .card-head2{
+        font-size: 1rem;
+        left: 30%;
+    }
+    .design{
+        left: 30%;
+    }
+    .devop{
+        left: 26%;
+    }
+    .management{
+        left: 22%;
+    }
+    .d3-s2{
+        display: none;
+    }
+    .d3-s2-responsvie{
+        display: block;
+    }
+    .triangle2{
+        left: 20%;
+    }
+    .div4{
+        border-top-left-radius: 180px;
+    }
+    .line{
+        left: -18%;
+    }
+    .line_cont{
+        left: -20.2%;
+    }
+
+}
+
+
+@media (max-width: 990px) {
+
+    .project-content{
+        font-size: 3.2vw;
+    }
+    .triangle2{
+        left: 16%;
+    }
+    .course-style, .course-des-style{
+        font-size: 1.1rem;
+    }
+    .poly-div, .sset-div, .tm-div, .resume-div{
+        width: 500px;
+        left: 20%;
+    }
+}
+
+
+@media (max-width: 850px) {
+    .card{
+        width: 140px;
+        margin-top: 1px;
+    }
+
+    .icon{
+        font-size: 2.3rem;
+    }
+    .card-head, .card-head2{
+        font-size: .8rem;
+        left: 30%;
+    }
+    .design{
+        left: 30%;
+    }
+    .devop{
+        left: 26%;
+    }
+    .management{
+        left: 22%;
+    }
+    .intro-content{
+        width: 100%;
+    }
+    .triangle2{
+        left: 5%;
+    }
+    .div4{
+        border-top-left-radius: 150px;
+    }
+    .line{
+        left: -22%;
+    }
+    .line_cont{
+        left: -24.8%;
+    }
+    .course-style, .course-des-style{
+        font-size: .9rem;
+    }
+    .poly-div, .sset-div, .tm-div, .resume-div{
+        width: 400px;
+    }
+    .show-contact{
+        left: 0;
+    }
+    
+}
+
+
+
+
+@media (max-width: 768px) {
+    .triangle {
+        left: 15%;
+    }
+
+    .hello, .myname{
+        font-size: 2.5rem;
+    }
+    .des{
+        font-size: 1.6rem;
+    }
+    img{
+        height: 60%;
+        top: 40%;
+        left: 48%;
+    }
+    .top-right p{
+        font-size: 1rem;
+    }
+    .card{
+        height: 80%;
+        margin-top: 20px;
+    }
+    .project-content{
+        width: 100%;
+    }
+    .hpj-head{
+        font-size: 1.3rem;
+    }
+    .hpj-des{
+        font-size: .9rem;
+    }
+    .project2-big{
+    background-size: 500px;
+
+    }
+    .project3-big{
+        background-size: 500px;
+    }
+    .project4-big{
+        background-size: 350px;
+    }
+    .triangle2{
+        left: 0%;
+    }
+    .div4{
+        border-top-left-radius: 130px;
+    }
+    .line{
+        left: -28%;
+    }
+    .line_cont{
+        left: -31%;
+    }
+    .course-style, .course-des-style{
+        font-size: .9rem;
+    }
+    .poly-div, .sset-div, .tm-div, .resume-div{
+        width: 400px;
+    }
+    .res{
+        font-size: 1rem;
+    }
+    .contact-text{
+        font-size: 1;
+    }
+    .ctnt{
+        font-size: .9rem
+    }
+    .contact-box{
+        width: 290px;
+    }
+    .show-contact{
+        width: 400px;
+        height: 250px;
+        margin-left: -8%;
+
+    }
+}
+
+
+@media (max-width: 660px) {
+    .triangle {
+        left: 10%;
+    }
+    .hello, .myname{
+        font-size: 2.2rem;
+    }
+    .des{
+        font-size: 1.3rem;
+    }
+    img{
+        left: 44%;
+        height: 60%;
+        top: 40%;
+    }
+
+    .intro{
+        font-size: .9rem;
+    }
+    .overview{
+        font-size: 4.4rem;
+    }
+    .intro-content{
+        font-size: .9rem;
+    }
+    .project2-big{
+        background-size: 450px;
+    
+        }
+    .project3-big{
+        background-size: 450px;
+    }
+    .triangle2{
+        display: none;
+    }
+    .div4{
+        border-top-left-radius: 100px;
+    }
+    .line{
+        left: -38%;
+    }
+    .line_cont{
+        left: -41.8%;
+    }
+    .poly-div, .sset-div, .tm-div, .resume-div{
+        left: 20%;
+    }
+    .res{
+        font-size: .9rem;
+    }
+    .show-cnt{
+        margin-top: 10px;
+    }
+
+}
+@media (max-width: 600px) {
+    .triangle {
+        left: 5%;
+    }
+    .hello, .myname{
+        font-size: 2rem;
+    }
+    .des{
+        font-size: 1.2rem;
+    }
+    img{
+        left: 40%;
+        height: 50%;
+        top: 50%;
+    }
+    .intro{
+        font-size: .8rem;
+    }
+    .overview{
+        font-size: 4rem;
+    }
+    .hpj-head{
+        font-size: 1.1rem;
+    }
+    .hpj-des{
+        font-size: .8rem;
+    }
+    .project2-big{
+        background-size: 400px;
+        }
+    .project3-big{
+        background-size: 400px;
+    }
+    .line{
+        left: -42%;
+    }
+    .line_cont{
+        left: -46.5%;
+    }
+    .course-style, .course-des-style{
+        font-size: .8rem;
+    }
+    .poly-div, .sset-div, .tm-div, .resume-div{
+        width: 350px;
+        left: 23%;
+    }
+}
+
+
+@media (max-width: 450px){
+    .name-visible{
+        top: 25%;
+    }
+    .des-div{
+        top: 45%;
+        width: 50%;
+        left: 39.5%;
+    }
+}
+
+/* this is for info */

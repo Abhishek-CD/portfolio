@@ -1,0 +1,549 @@
+@media (min-height: 920px) and (max-height: 940px){
+    .triangle{
+        left: -20%;
+    }
+    img{
+        left: 25%;
+        height: 50%;
+        top: 50%;
+    }
+    .div2-sub2{
+        margin-top: 40px;
+    }
+    .d3-s2-responsvie{
+        margin-top: 20px;
+    }
+    .div4{
+        margin-top: 0;
+    }
+    .poly-div, .sset-div, .tm-div, .resume-div{
+        width: 320px;
+    }
+    .poly-div{
+        top: 27%;
+        left: 23%;
+    }
+    .tm-div{
+        top: 58%;
+        left: 23%;
+    }
+    .resume-div{
+        top: 74%;
+        left: 23%;
+    }
+}
+
+@media (min-height: 851px) and (max-height: 900px){
+    img{
+        left: 25%;
+        height: 50%;
+        top: 50%;
+    }
+    .d3-s2-responsvie{
+        margin-top: 20px;
+    }
+    .div4{
+        margin-top: 0;
+    }
+    .line{
+    left: -57%;
+    width: 550px;
+    top: 58%;
+
+    }
+    .line_cont{
+    top: 60%;
+    left: -62%;
+
+    }
+    .poly{
+        margin-left: -5%;
+    }
+    .sset{
+        margin-left: 20%;
+    }
+    .resume{
+        margin-left: 79%;
+    }
+    .resume-div{
+        top: 82%;
+    }
+    .poly-div, .sset-div, .tm-div, .resume-div{
+        width: 300px;
+    }
+}
+@media (min-height: 801px) and (max-height: 850px){
+    
+    .contact-text{
+        display: block;
+    }
+    .show-contact{
+        width: fit-content;
+        margin-left: 2.5%;
+    }
+    .contact-box{
+        margin-left: 0;
+    }
+    img{
+        left: 25%;
+        height: 50%;
+        top: 50%;
+    }
+    .div2-sub2{
+        margin-top: 40px;
+        }
+    .d3-s2-responsvie{
+        margin-top: 40px;
+    }
+    .div4{
+        margin-top: 0;
+    }
+    .intro{
+        width: 150px;
+    }
+    .line{
+    left: -57%;
+    width: 550px;
+    top: 58%;
+
+    }
+    .line_cont{
+    top: 60%;
+    left: -62%;
+
+    }
+    .poly{
+        margin-left: -5%;
+    }
+    .sset{
+        margin-left: 20%;
+    }
+    .resume{
+        margin-left: 79%;
+    }
+    .resume-div{
+        top: 82%;
+    }
+    .poly-div, .sset-div, .tm-div, .resume-div{
+        width: 300px;
+    }
+}
+@media (min-height: 910px) and (max-height: 919px){
+    .triangle{
+        left: -20%;
+    }
+    img{
+        left: 20%;
+        height: 50%;
+        top: 50%;
+    }
+    .div2-sub2{
+        margin-top: 40px;
+        }
+    .d3-s2-responsvie{
+        margin-top: 40px;
+    }
+    .div4{
+        margin-top: 0;
+    }
+    .line{
+    left: -57%;
+    width: 550px;
+    top: 58%;
+
+    }
+    .line_cont{
+    top: 60%;
+    left: -62%;
+
+    }
+    .poly{
+        margin-left: -5%;
+    }
+    .sset{
+        margin-left: 20%;
+    }
+    .resume{
+        margin-left: 79%;
+    }
+    .resume-div{
+        top: 82%;
+    }
+    .poly-div, .sset-div, .tm-div, .resume-div{
+        width: 300px;
+    }
+    .poly-div{
+        top: 26%;
+    }
+    .show-contact{
+        width: fit-content;
+        margin-left: 2.5%;
+    }
+}
+@media (max-width: 414px) and (max-height: 916px){
+
+    .show-contact{
+        width: fit-content;
+    }
+    .line{
+    left: -62%;
+    width: 550px;
+    top: 58%;
+
+    }
+    .line_cont{
+    top: 60%;
+    left: -68%;
+
+    }
+    .poly{
+        margin-left: -3%;
+    }
+    .sset{
+        margin-left: 20%;
+    }
+    .resume{
+        margin-left: 79%;
+    }
+    .resume-div{
+        top: 82%;
+    }
+    .poly-div, .sset-div, .tm-div, .resume-div{
+        width: 250px;
+    }
+    .poly-div{
+        top: 26%;
+    }
+    .sset-div{
+        top: 43%;
+    }
+    .resume-div{
+        top: 82%;
+    }
+    .intro{
+        width: 150px;
+    }
+    img{
+        left: 28%;
+    }
+    .div2-sub2{
+        margin-top: 80px;
+    }
+    .d3-s2-responsvie{
+        margin-top: 40px;
+    }
+    .div4{
+        margin-top: 40px;
+    }
+    .hpj-des{
+        font-size: .7rem;
+    }
+    .hprj2-mask-head{
+        font-size: 1.5rem;
+    }
+} 
+@media (min-height: 1020px) and (max-height: 1025px){
+    .des-div{
+        width: 50%;
+        top: 44%;
+        left: 40%;
+    }
+    .name-visible{
+        top: 26%;
+        left: 15%;
+    }
+    .triangle{
+    left: -1%;
+
+    }
+    img{
+        left: 35%;
+    }
+    .right-divs{
+        position: relative;
+        left: 20%;
+    }
+    .div22{
+        height: 350px;
+    }
+    .div4{
+        margin-top: 0;
+    }
+    .div3{
+    height: 100vh;
+
+    }
+        .line{
+    left: -30%;
+    width: 650px;
+    top: 58%;
+
+    }
+    .line_cont{
+    top: 60%;
+    left: -27%;
+
+    }
+    .poly{
+        margin-left: -13%;
+    }
+    .sset{
+        margin-left: 20%;
+    }
+    .resume{
+        margin-left: 88%;
+    }
+    .poly-div{
+        top: 25%;
+    }
+    .resume-div{
+        top: 84%;
+    }
+    .show-contact{
+        width: 100%;
+        margin-left: 2.5%;
+    }
+    .contact-text{
+        display: inline-block;
+    }
+}
+@media (min-height: 880px) and (max-height: 885px){
+    .triangle{
+        left: -25%;
+    }
+    img{
+        left: 0;
+    }
+    .card{
+        width: 120px;
+    }
+    .d3-s2-responsvie{
+        margin-top: 70px;
+    }
+}
+@media (min-height: 598px) and (max-height: 602px){
+.triangle{
+    left: 43%;
+}
+.rest{
+    display: none;
+}
+.poly{
+    margin-left: 10%;
+}
+.sset{
+    margin-left: 30%;
+}
+.resume{
+    margin-left: 70%;
+}
+.triangle2{
+    left: 43%;
+
+}
+}
+@media (min-height: 1179px) and (max-height: 1181px){
+    img{
+        left: 25%;
+        height: 50%;
+        top: 50%;
+    }
+    .triangle{
+        left: 0;
+    }
+    .div4{
+        margin-top: 0;
+    }
+    .line{
+        left: -30%;
+        width: 650px;
+        top: 58%;
+
+    }
+    .line_cont{
+        top: 60%;
+        left: -27%;
+
+    }
+    .poly{
+        margin-left: -18%;
+    }
+    .sset{
+        margin-left: 20%;
+    }
+    .tm{
+        margin-left: 57%;
+    }
+    .resume{
+        margin-left: 90%;
+    }
+}       
+@media (min-height: 1365px) and (max-height: 1368px){
+    .name-visible{
+        top: 25%;
+    }
+    .des-div{
+        width: 50%;
+        top: 45%;
+        left: 39%;
+        font-size: 1.5rem;
+    }
+    .des{
+        font-size: 2rem;
+    }
+    img{
+        left: 35%;
+        height: 50%;
+        top: 50%;
+    }
+    .triangle{
+        left: 0;
+    }
+    .intro-content{
+        font-size: 1.3rem;
+    }
+    .div2-sub2{
+        margin-top: 100px;
+    }
+    .div4{
+        margin-top: 0;
+    }
+    .div3{
+        height: 900px;
+    }
+    .line{
+        left: -30%;
+        width: 850px;
+        top: 58%;
+
+    }
+    .line_cont{
+        top: 60%;
+        left: -17%;
+
+    }
+    .poly{
+        margin-left: -32%;
+    }
+    .sset{
+        margin-left: 15%;
+    }
+    .tm{
+        margin-left: 57%;
+    }
+    .resume{
+        margin-left: 110%;
+    }
+    .show-contact{
+        width: 100%;
+        left: 0;
+    }
+}
+@media (min-height: 1275px) and (max-height: 1285px){
+    .name-visible{
+        top: 25%;
+    }
+    .des-div{
+        width: 50%;
+        top: 45%;
+        left: 39%;
+        font-size: 1.5rem;
+    }
+    .des{
+        font-size: 2rem;
+    }
+    img{
+        left: 35%;
+        height: 50%;
+        top: 50%;
+    }
+    .triangle{
+        left: 0;
+    }
+    .intro-content{
+        font-size: 1.3rem;
+    }
+    .div2-sub2{
+        margin-top: 100px;
+    }
+    .div4{
+        margin-top: 0;
+    }
+    .div3{
+        height: 900px;
+    }
+    .line{
+        left: -30%;
+        width: 850px;
+        top: 58%;
+
+    }
+    .line_cont{
+        top: 60%;
+        left: -15%;
+
+    }
+    .poly{
+        margin-left: -32%;
+    }
+    .sset{
+        margin-left: 15%;
+    }
+    .tm{
+        margin-left: 57%;
+    }
+    .resume{
+        margin-left: 110%;
+    }
+    .show-contact{
+        width: 100%;
+        left: 0;
+    }
+    .poly-div{
+        left: 25%;
+    }
+    .sset-div{
+        left: 25%;
+    }
+    .tm-div{
+        left: 25%;
+    }
+    .resume-div{
+        left: 25%;
+        top: 90%;
+    }
+}
+@media (min-height: 665px) and (max-height: 669px){
+    img{
+        left: 35%;
+        height: 50%;
+        top: 50%;
+    }
+    .div4{
+        margin-top: 150px;
+    }
+    .line{
+        left: -48%;
+        width: 450px;
+        top: 58%;
+
+    }
+    .poly{
+        margin-left: 0;
+    }
+    .sset{
+        margin-left: 30%;
+    }
+    .poly-div{
+        top: 20%;
+    }
+    .tm{
+        margin-left: 55%;
+    }
+    .tm-div{
+        top: 67%;
+    }
+    .resume-div{
+        top: 88%;
+    }
+}
